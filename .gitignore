@@ -1,0 +1,41 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+.python-version
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Editors / IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Local config
+config.local.yml
+config.local.yaml
+
+# Generated outputs
+files/*.csv
+files/*.xlsx
+
+

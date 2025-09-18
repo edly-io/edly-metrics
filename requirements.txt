@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+python-dotenv
+requests
+openpyxl
+PyYAML
+typer[all]

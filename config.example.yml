@@ -1,0 +1,15 @@
+# Example configuration for metrics collection
+
+# Global defaults
+output: ./files/out.csv
+gitlab_base_url: https://git.overhang.io/api/v4
+date_from: 2024-01-01
+date_to: 2024-12-31
+
+# Auth tokens can be provided here or via environment variables
+# GITLAB_TOKEN, GITHUB_TOKEN, AZURE_PAT are read from environment if not set
+# gitlab_token: ${GITLAB_TOKEN}
+# github_token: ${GITHUB_TOKEN}
+# azure_pat: ${AZURE_PAT}
+
+
