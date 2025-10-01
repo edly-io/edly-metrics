@@ -6,3 +6,5 @@ requests
 openpyxl
 PyYAML
 typer[all]
+github3.py==4.0.1
+bs4
